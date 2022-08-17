@@ -1,2 +1,2 @@
--[ ] I like to do programming
--[ ] I like to learn new things
+- [ ] I like to do programming
+- [ ] I like to learn new things
